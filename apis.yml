@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://any-api.com/nba_com/nba_com/docs/API_Description', status: 301, note: 'declared website redirects to https://marketplace.apilayer.com/?utm_source=any-api&utm_medium=any-api-redirection&utm_campaign=any-api-redirection — a different registrable domain (any-api.com -> apilayer.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nba-stats.png
 name: NBA Stats
 description: "Current and historical NBA Statistics"
